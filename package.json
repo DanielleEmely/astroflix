@@ -18,8 +18,8 @@
   "scripts": {
     "server": "node ./server.js",
     "dev":"concurrently \"react-scripts start\" \"npm run server\"",
-    "start": "npm run server", // para a hiroko reconhecer e rodar
-    "build": "react-scripts build", // para a vercer reconhecer e rodar
+    "start": "npm run server", 
+    "build": "react-scripts build", 
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
