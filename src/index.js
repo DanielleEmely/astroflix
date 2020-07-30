@@ -10,7 +10,7 @@ import CadastroCategoria from './pages/cadastro/Categoria';
 
 // todo componente é uma função
 // passa o componente usando a rota
-const Pagina404 = () => (<div> <h1>Página 404</h1></div>)
+const Pagina404 = () => (<> <h1>Página 404</h1> <iframe src="https://editor.p5js.org/DanielleEmely/embed/j9cwK2Fhw"></iframe></>)
 ReactDOM.render(
   <BrowserRouter>
     <Switch>

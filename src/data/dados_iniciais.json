@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Big Bang",
+      "link": "https://www.youtube.com/watch?v=-5sb11GNwG0", 
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Teoria do Big Bang: o que é?",
+        "url": "https://www.stoodi.com.br/blog/biologia/teoria-do-big-bang-o-que-e/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A História do Big Bang",
+          "url": "https://www.youtube.com/watch?v=-5sb11GNwG0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "COMO O UNIVERSO SURGIU? BIG BANG",
+          "url": "https://www.youtube.com/watch?v=DT4OMw_ua-g"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "A origem do universo | Teoria do BIG BANG",
+          "url": "https://www.youtube.com/watch?v=Bl8Q7Lt56y0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "O Big Bang Explicado",
+          "url": "https://www.youtube.com/watch?v=nNAuuTIf3LE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Teoria da formação do universo - Big Bang. Documentário dublado.",
+          "url": "https://www.youtube.com/watch?v=lAQEOiJkxyw"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "O Big Bang | Astronomia #4",
+          "url": "https://www.youtube.com/watch?v=MzLq48FY_H8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "ABC da Astronomia | Big Bang",
+          "url": "https://www.youtube.com/watch?v=CH24yfMrA94"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Quer que desenhe? Big Bang",
+          "url": "https://www.youtube.com/watch?v=JfrNqY8588Y"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Estrelas",
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Tudo sobre Estrelas - Site Curiosidades",
+        "url": "https://www.sitedecuriosidades.com/curiosidade/tudo-sobre-estrelas.html"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Como Funciona o Universo (HD) — Estrelas",
+          "url": "https://www.youtube.com/watch?v=agrJHUe9aHA&t=5s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Comparação do Tamanho das Estrelas",
+          "url": "https://www.youtube.com/watch?v=Wk7-IDzwmY4"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Astronomia: Nascimento, Vida e Morte das estrelas",
+          "url": "https://www.youtube.com/watch?v=ZMKjm41mwJk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "De Poeira Estelar a Supernovas: O Ciclo de Vida das Estrelas",
+          "url": "https://www.youtube.com/watch?v=1wPSGIV84aI"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CONHEÇA 9 ESTRELAS QUE SÃO MUITO MAIORES QUE O SOL",
+          "url": "https://www.youtube.com/watch?v=0fGo0EeoAHY"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Galáxias",
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Top 10 maiores galáxias do universo",
+        "url": "https://top10mais.org/top-10-maiores-galaxias-do-universo/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Tudo sobre Galáxias",
+          "url": "https://www.youtube.com/watch?v=oJvgMvcSlNQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "QUANTAS GALÁXIAS NO UNIVERSO? - PSVVU (Ep. 02)",
+          "url": "https://www.youtube.com/watch?v=KJkyEU1fvR0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "ABC da Astronomia | Galaxias",
+          "url": "https://www.youtube.com/watch?v=6iFEYS_Fxfw"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Documentário A Via Láctea Dublado",
+          "url": "https://www.youtube.com/watch?v=canhuc7ROVM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Buracos Negros",
+      "cor": "#DC143C",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Misterios do Universo - Buracos Negros Dublado",
+          "url": "https://www.youtube.com/watch?v=1pm7kHuI5Ys"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "O QUE EXISTE DO OUTRO LADO DE UM BURACO NEGRO",
+          "url": "https://www.youtube.com/watch?v=QkwvLhVviTk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Buraco Negro | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=ThG5RHBR7dA"
         }
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Sistema Solar",
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Sistema Solar | Escola Games - Jogos Educativos",
+        "url": "http://www.escolagames.com.br/jogos/sistemaSolar/?deviceType=computer"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "VIAJANDO PELO SISTEMA SOLAR",
+          "url": "https://www.youtube.com/watch?v=zLFvrurSef8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Conhecendo o Sistema Solar - Descomplicando a Astronomia",
+          "url": "https://www.youtube.com/watch?v=zQvpKm9dCD0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "SISTEMA SOLAR - CRIANÇAS INTELIGENTES - CONHECENDO O UNIVERSO",
+          "url": "https://www.youtube.com/watch?v=dob2tk_ipec"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "O Fantástico Sistema Solar",
+          "url": "https://www.youtube.com/watch?v=9nQHTGtZev8"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "O Fantástico Sistema Solar",
+          "url": "https://www.youtube.com/watch?v=Ahr6FSnHg3E"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Constelações",
+      "cor": "#DC143C",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Constelações: conheça as principais e veja fotos",
+        "url": "https://www.estudopratico.com.br/constelacoes-conheca-as-principais-e-veja-fotos/"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Astrolab | O que são as constelações?",
+          "url": "https://www.youtube.com/watch?v=5-cNSQt-BMA"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "O QUE SÃO CONSTELAÇÕES? COMO SÃO?",
+          "url": "https://www.youtube.com/watch?v=5_RjuGA2s9o"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "ABC da Astronomia | Constelações",
+          "url": "https://www.youtube.com/watch?v=jD9wwYaxTgU"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "As Três Marias e o Cinturão de Órion",
+          "url": "https://www.youtube.com/watch?v=kDigRKFx25o"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Constelação de Órion",
+          "url": "https://www.youtube.com/watch?v=3oYFxMg9rZ0"
         }
       ]
     }
