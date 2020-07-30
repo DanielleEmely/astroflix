@@ -18,7 +18,7 @@ function CadastroCategoria() {
     setValues({
       ...values,
       [chave]: valor,
-    });
+    }); // seta valores
   }
 
   function handleChange(infosDoEvento) {
