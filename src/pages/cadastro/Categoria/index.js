@@ -94,9 +94,9 @@ function CadastroCategoria() {
         <Button>
           Cadastrar
         </Button>
-        <div>
+        {/*<div>
           Loading...
-        </div>
+        </div>*/}
       </form>
       <ul>
         {categorias.map((categoria) => (
