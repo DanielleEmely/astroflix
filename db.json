@@ -22,6 +22,18 @@
       "descricao": "",
       "cor": "#F02011",
       "id": 4
+    },
+    {
+      "titulo": "Sistema Solar",
+      "descricao": "",
+      "cor": "#f02011",
+      "id": 5
+    },
+    {
+      "titulo": "Constelações",
+      "descricao": "",
+      "cor": "#f02011",
+      "id": 6
     }
   ],
   "videos": [
