@@ -1,16 +1,59 @@
 {
-    "categorias": [
-       { 
-        "id": 1,
-        "nome": "Front End",
-        "descricao": "Uma categoria bacana",
-        "cor": "#cbd1ff"
-       },
-       { 
-        "id": 2,
-        "nome": "Back End",
-        "descricao": "Outra categoria bacana",
-        "cor": "#cbd1ff"
-       }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Big Bang",
+      "cor": "#6BD1FF"
+    },
+    {
+      "titulo": "Galáxias",
+      "descricao": "",
+      "cor": "#ff0000",
+      "id": 2
+    },
+    {
+      "titulo": "Constelações",
+      "descricao": "",
+      "cor": "#ff0000",
+      "id": 3
+    },
+    {
+      "titulo": "Estrelas",
+      "descricao": "",
+      "cor": "#ff0000",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "A História do Big Bang",
+      "url": "https://www.youtube.com/watch?v=-5sb11GNwG0"
+    },
+    {
+      "titulo": "COMO O UNIVERSO SURGIU? BIG BANG",
+      "url": "https://www.youtube.com/watch?v=DT4OMw_ua-g",
+      "categoriaId": 1,
+      "id": 4
+    },
+    {
+      "titulo": "A origem do universo | Teoria do BIG BANG",
+      "url": "https://www.youtube.com/watch?v=Bl8Q7Lt56y0",
+      "categoriaId": 1,
+      "id": 5
+    },
+    {
+      "titulo": "O Big Bang Explicado",
+      "url": "https://www.youtube.com/watch?v=nNAuuTIf3LE",
+      "categoriaId": 1,
+      "id": 6
+    },
+    {
+      "titulo": "Teoria da formação do universo - Big Bang. Documentário dublado.",
+      "url": "https://www.youtube.com/watch?v=lAQEOiJkxyw",
+      "categoriaId": 1,
+      "id": 7
+    }
+  ]
 }
