@@ -3,24 +3,24 @@
     {
       "id": 1,
       "titulo": "Big Bang",
-      "cor": "#6BD1FF"
+      "cor": "#F02011"
     },
     {
       "titulo": "Galáxias",
       "descricao": "",
-      "cor": "#ff0000",
+      "cor": "#F02011",
       "id": 2
     },
     {
       "titulo": "Constelações",
       "descricao": "",
-      "cor": "#ff0000",
+      "cor": "#F02011",
       "id": 3
     },
     {
       "titulo": "Estrelas",
       "descricao": "",
-      "cor": "#ff0000",
+      "cor": "#F02011",
       "id": 4
     }
   ],
