@@ -12,13 +12,13 @@
       "id": 2
     },
     {
-      "titulo": "Constelações",
+      "titulo": "Estrelas",
       "descricao": "",
       "cor": "#F02011",
       "id": 3
     },
     {
-      "titulo": "Estrelas",
+      "titulo": "Buracos Negros",
       "descricao": "",
       "cor": "#F02011",
       "id": 4
@@ -54,6 +54,90 @@
       "url": "https://www.youtube.com/watch?v=lAQEOiJkxyw",
       "categoriaId": 1,
       "id": 7
+    },
+    {
+      "titulo": "Tudo sobre Galáxias",
+      "url": "https://www.youtube.com/watch?v=oJvgMvcSlNQ",
+      "categoriaId": 2,
+      "id": 8
+    },
+    {
+      "titulo": " QUANTAS GALÁXIAS NO UNIVERSO? - PSVVU (Ep. 02)",
+      "url": "https://www.youtube.com/watch?v=KJkyEU1fvR0",
+      "categoriaId": 2,
+      "id": 9
+    },
+    {
+      "titulo": " ABC da Astronomia | Galaxias",
+      "url": "https://www.youtube.com/watch?v=6iFEYS_Fxfw",
+      "categoriaId": 2,
+      "id": 10
+    },
+    {
+      "titulo": "Viajando pela VIA LÁCTEA - conhecendo a NOSSA galaxia",
+      "url": "https://www.youtube.com/watch?v=LA_UqH7IwOg",
+      "categoriaId": 2,
+      "id": 11
+    },
+    {
+      "titulo": " Documentário A Via Láctea Dublado",
+      "url": "https://www.youtube.com/watch?v=canhuc7ROVM",
+      "categoriaId": 2,
+      "id": 12
+    },
+    {
+      "titulo": "Como Funciona o Universo (HD) — Estrelas",
+      "url": "https://www.youtube.com/watch?v=agrJHUe9aHA&t=5s",
+      "categoriaId": 3,
+      "id": 13
+    },
+    {
+      "titulo": "Comparação do Tamanho das Estrelas",
+      "url": "https://www.youtube.com/watch?v=Wk7-IDzwmY4",
+      "categoriaId": 3,
+      "id": 14
+    },
+    {
+      "titulo": " Astronomia: Nascimento, Vida e Morte das estrelas",
+      "url": "https://www.youtube.com/watch?v=ZMKjm41mwJk",
+      "categoriaId": 3,
+      "id": 15
+    },
+    {
+      "titulo": "De Poeira Estelar a Supernovas: O Ciclo de Vida das Estrelas",
+      "url": "https://www.youtube.com/watch?v=1wPSGIV84aI",
+      "categoriaId": 3,
+      "id": 16
+    },
+    {
+      "titulo": "CONHEÇA 9 ESTRELAS QUE SÃO MUITO MAIORES QUE O SOL",
+      "url": "https://www.youtube.com/watch?v=0fGo0EeoAHY",
+      "categoriaId": 3,
+      "id": 17
+    },
+    {
+      "titulo": " Misterios do Universo - Buracos Negros Dublado",
+      "url": "https://www.youtube.com/watch?v=1pm7kHuI5Ys",
+      "categoriaId": 4,
+      "id": 18
+    },
+    {
+      "titulo": "Buracos Negros Explicados",
+      "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4",
+      "categoriaId": 4,
+      "id": 19
+    },
+    {
+      "titulo": " O QUE EXISTE DO OUTRO LADO DE UM BURACO NEGRO",
+      "url": "https://www.youtube.com/watch?v=QkwvLhVviTk",
+      "categoriaId": 4,
+      "id": 20
+    },
+    {
+      "titulo": "Buraco Negro | Nerdologia",
+      "url": " https://www.youtube.com/watch?v=ThG5RHBR7dA",
+      "categoriaId": 4,
+      "id": 21
     }
   ]
 }
