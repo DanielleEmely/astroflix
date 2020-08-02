@@ -150,6 +150,60 @@
       "url": " https://www.youtube.com/watch?v=ThG5RHBR7dA",
       "categoriaId": 4,
       "id": 21
+    },
+    {
+      "titulo": "VIAJANDO PELO SISTEMA SOLAR",
+      "url": "https://www.youtube.com/watch?v=zLFvrurSef8",
+      "categoriaId": 5,
+      "id": 22
+    },
+    {
+      "titulo": "Conhecendo o Sistema Solar - Descomplicando a Astronomia",
+      "url": "https://www.youtube.com/watch?v=zQvpKm9dCD0",
+      "categoriaId": 5,
+      "id": 23
+    },
+    {
+      "titulo": "SISTEMA SOLAR - CRIANÇAS INTELIGENTES - CONHECENDO O UNIVERSO",
+      "url": "https://www.youtube.com/watch?v=dob2tk_ipec",
+      "categoriaId": 5,
+      "id": 24
+    },
+    {
+      "titulo": " A Formação do Sistema Solar",
+      "url": "https://www.youtube.com/watch?v=9nQHTGtZev8",
+      "categoriaId": 5,
+      "id": 25
+    },
+    {
+      "titulo": "O Fantástico Sistema Solar",
+      "url": "https://www.youtube.com/watch?v=Ahr6FSnHg3E",
+      "categoriaId": 5,
+      "id": 26
+    },
+    {
+      "titulo": "Astrolab | O que são as constelações?",
+      "url": "https://www.youtube.com/watch?v=5-cNSQt-BMA",
+      "categoriaId": 6,
+      "id": 27
+    },
+    {
+      "titulo": "O QUE SÃO CONSTELAÇÕES? COMO SÃO?",
+      "url": "https://www.youtube.com/watch?v=5_RjuGA2s9o",
+      "categoriaId": 6,
+      "id": 28
+    },
+    {
+      "titulo": " ABC da Astronomia | Constelações",
+      "url": "https://www.youtube.com/watch?v=jD9wwYaxTgU",
+      "categoriaId": 6,
+      "id": 29
+    },
+    {
+      "titulo": "As Três Marias e o Cinturão de Órion",
+      "url": "https://www.youtube.com/watch?v=kDigRKFx25o",
+      "categoriaId": 6,
+      "id": 30
     }
   ]
 }
