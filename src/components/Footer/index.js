@@ -13,6 +13,10 @@ function Footer() {
         <a href="https://www.alura.com.br/">
           Imersão React da Alura
         </a>
+        <p>
+          Desenvolvido por Danielle Emely 
+        </p>
+        
       </p>
     </FooterBase>
   );
