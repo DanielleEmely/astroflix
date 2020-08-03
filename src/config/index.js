@@ -3,5 +3,5 @@ const URL_BACKEND = window.location.hostname.includes('localhost')
   : 'https://astroflix.herokuapp.com';
 
   export default {
-      URL_BACKEND,
+      URL_BACKEND, // link para o heroku
   };
